@@ -1,16 +1,22 @@
-### Hi there 👋
+#### Hi! 😎
 
-<!--
-**valfreitas/valfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Valdeones Freitas
 
-Here are some ideas to get you started:
+Estudante de ADS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco atualmente esta em FrontEnd
+
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valfreitas&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valfreitas&layout=compact"/>
+</div>
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](valdeonesfreitas@gmail.com)
+
+### Technologies and Tools I use:
+
+<div>
+  <img align="center" alt="valfreitas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="valfreitas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="valfreitas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+</div>
