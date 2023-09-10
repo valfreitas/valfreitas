@@ -15,7 +15,7 @@ Meu foco atualmente esta em FrontEnd
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5579991271284)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/val_ffreitas/)
 
-### Technologies and Tools I use:
+### studying at the moment:
 
 <div>
   <img align="center" alt="valfreitas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
